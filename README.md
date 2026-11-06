@@ -28,27 +28,14 @@ I enjoy connecting technical solutions with thoughtful interfaces. My background
 ![Vue.js](https://img.shields.io/badge/Vue.js-58334D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-58334D?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-58334D?style=for-the-badge&logo=git&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-58334D?style=for-the-badge&logo=nestjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-58334D?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-58334D?style=for-the-badge&logo=databricks&logoColor=white)
 
 **Currently building with**
 
 ![React](https://img.shields.io/badge/React-C4B5D4?style=for-the-badge&logo=react&logoColor=302338)
 ![Vite](https://img.shields.io/badge/Vite-C4B5D4?style=for-the-badge&logo=vite&logoColor=302338)
-
-## ✨ Featured project
-
-### English4You — From visual identity to a live website
-
-A website for an online English teaching business, bringing together branding, web development, and deployment.
-
-**My contribution**
-- Developed the visual identity and website design.
-- Built the website using React and Vite.
-- Published it with Cloudflare Pages.
-- Connected the custom domain.
-
-**Stack:** React · Vite · Cloudflare Pages
-
-[🌐 Visit English4You](https://english4you.com.mx/)
 
 ## 🔎 What I'm looking for
 
